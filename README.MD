@@ -12,7 +12,7 @@ Write in shell :
 ```js
 npm run runs
 ```
-### Config  
+### ⚙️ Config  
 Open the config.js file in the conf folder in the src folder 2:12 that is the website port, just below it type the mongodb url
 
 Go to [webpage](http://localhost:3000/)💚

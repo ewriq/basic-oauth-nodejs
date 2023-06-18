@@ -1,5 +1,5 @@
 # 👋 Basic Oauth System (Back-end) Website
-This project calculator website (my first projects).
+This project oauth restful api.
 
 ### 📥 Instaling
 
